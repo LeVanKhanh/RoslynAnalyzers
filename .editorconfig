@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# RSS001: RSS URL analysis
+dotnet_diagnostic.RSS001.severity = warning
